@@ -1,5 +1,6 @@
 ---
-layout: post-no-feature
+layout: page
+header: no
 title: "randomElement"
 description: "A little taste of bad-practice"
 category: programming

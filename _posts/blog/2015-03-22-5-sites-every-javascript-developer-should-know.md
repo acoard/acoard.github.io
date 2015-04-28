@@ -1,5 +1,6 @@
 ---
-layout: post-no-feature
+layout: page
+header: no
 title: "5 sites every JavaScript developer should know"
 description: "Following these 5 sites will keep you up to date on the constantly changing JavaScript landscape and help make you a better web developer."
 category: programming

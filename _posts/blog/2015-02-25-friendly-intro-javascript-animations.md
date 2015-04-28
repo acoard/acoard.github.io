@@ -1,5 +1,6 @@
 ---
-layout: post-no-feature
+layout: page
+header: no
 title: "A friendly introduction to making your own animations on the web using JavaScript"
 description: "If you're a frontend JavaScript developer, you need to be familiar with multiple ways to make animation happen on the web.  This article is for the complete beginner when it comes to web animation."
 category: programming

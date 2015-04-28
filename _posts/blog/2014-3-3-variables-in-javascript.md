@@ -1,5 +1,6 @@
 ---
-layout: post-no-feature
+layout: page
+header: no
 title: "Variables in JavaScript. Pass by reference - or is it?"
 description: "Are variables in JavaScript pass by reference or pass by value?  The answer is more complicated than you'd think."
 category: programming

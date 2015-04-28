@@ -1,5 +1,6 @@
 ---
-layout: post-no-feature
+layout: page
+header: no
 title: "Understanding Scope and Closure, A Design Pattern for Data Encapsulation"
 description: "In this post I will explain what scope is and how it works in JavaScript.  Then I will go on to show a design pattern that allows one to use scope in order to encapsulate data in an object making it only visible inside that object, as well as through getter and setter methods."
 category: programming

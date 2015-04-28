@@ -1,5 +1,6 @@
 ---
-layout: post-no-feature
+layout: page
+header: no
 title: "Turn a JavaScript string into an array of characters"
 description: ""
 category: programming
