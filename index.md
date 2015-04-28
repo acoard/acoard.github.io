@@ -11,16 +11,24 @@ header:
 widget-1:
     title: "Portfolio"
     url: 'https://acoard.github.io/portfolio/'
-    text: 'Here\'s some work over the years I'\m proud of that <em>isn\'t</em> covered by an NDA.'
+    text: "Here's some work over the years I'm proud of that <em>isn't</em> covered by an NDA."
     image: unsplash_9-302x182.jpg
 widget-2:
     title: "Blog"
     url: 'https://acoard.github.io/blog/'
-    text: 'Sharing what I\'ve learned, and giving back to the community which has given so much to me.'
+    text: "Sharing what I've learned, and giving back to the community which has given so much to me."
     image: unsplash_4.jpg
 widget-3:
     title: "Github"
     url: 'https://github.com/acoard'
-    text: 'Take a look under the hood and see the code I\'ve written.'
+    text: "Take a look under the hood and see the code I've written."
     image: github-303x182.jpg
 ---
+
+
+<div id="videoModal" class="reveal-modal large" data-reveal="">
+  <div class="flex-video widescreen vimeo" style="display: block;">
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
+  </div>
+  <a class="close-reveal-modal">&#215;</a>
+</div>
